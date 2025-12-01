@@ -8,7 +8,7 @@
 
 ## 📖 About
 
-**Komorebi** is a modern web application built to leverage the power of **Google's Gemini AI**. Developed using React and TypeScript with Vite as the build tool, this project serves as a robust platform for AI-driven interactions and services.
+**Komorebi** is a modern web application built for Manga Community. Developed using React and TypeScript with Vite as the build tool, this project serves as a robust platform for AI-driven interactions and services.
 
 "Komorebi" (木漏れ日) is the Japanese word for sunlight filtering through the leaves of trees—symbolizing the clarity and insight this application aims to provide through its AI capabilities.
 
