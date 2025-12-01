@@ -1,6 +1,6 @@
 # Komorebi Main Site
 
-![Project Status](https://img.shields.io/badge/status-active-success.svg)
+![Project Status](https://img.shields.io/badge/status-active-success.svg) #working under process
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
